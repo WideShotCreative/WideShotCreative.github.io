@@ -111,3 +111,57 @@ a:focus-visible { outline: 3px solid var(--primary); outline-offset: 4px; }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { scroll-behavior: auto !important; transition-duration: .01ms !important; animation-duration: .01ms !important; animation-iteration-count: 1 !important; }
 }
+
+
+/* Filled platform marks, using the same Simple Icons mask system as xdan.cc. */
+.xdan-icon {
+  display: inline-block;
+  width: 19px;
+  height: 19px;
+  flex: 0 0 auto;
+  background-color: currentColor;
+  -webkit-mask-position: center;
+  mask-position: center;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: contain;
+  mask-size: contain;
+}
+.i-github { -webkit-mask-image: url("https://cdn.simpleicons.org/github"); mask-image: url("https://cdn.simpleicons.org/github"); }
+.i-itchdotio { -webkit-mask-image: url("https://cdn.simpleicons.org/itchdotio"); mask-image: url("https://cdn.simpleicons.org/itchdotio"); }
+.i-instagram { -webkit-mask-image: url("https://cdn.simpleicons.org/instagram"); mask-image: url("https://cdn.simpleicons.org/instagram"); }
+.i-protonmail { -webkit-mask-image: url("https://cdn.simpleicons.org/protonmail"); mask-image: url("https://cdn.simpleicons.org/protonmail"); }
+.i-godotengine { -webkit-mask-image: url("https://cdn.simpleicons.org/godotengine"); mask-image: url("https://cdn.simpleicons.org/godotengine"); }
+
+.social-link-main {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  min-width: 0;
+}
+.social-link .social-link-main .xdan-icon {
+  width: 21px;
+  height: 21px;
+  color: var(--primary);
+}
+.social-link .social-link-arrow {
+  color: var(--primary);
+  font-size: 1.1rem;
+}
+.project-meta .project-meta-platform {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+.project-meta-platform .xdan-icon {
+  width: 14px;
+  height: 14px;
+  /* Reset the generic .project-meta span badge styling on the nested icon. */
+  background: currentColor;
+  padding: 0;
+  border-radius: 0;
+}
+.project-details .text-link .xdan-icon {
+  width: 17px;
+  height: 17px;
+}
