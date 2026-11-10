@@ -58,7 +58,7 @@ a:focus-visible { outline: 3px solid var(--primary); outline-offset: 4px; }
 .about-section { padding-block: 70px 92px; border-top: 1px solid var(--outline); display: grid; grid-template-columns: 1fr 1fr; gap: 70px; }
 .section-kicker { margin: 0 0 18px; }
 .section-heading h2, .contact-section h2 { margin: 0; font-size: clamp(2rem, 4vw, 3.25rem); line-height: 1.13; }
-.about-logo { display: block; margin-top: 30px; width: min(200px, 45vw); height: auto; border-radius: var(--radius-large); }
+.about-logo { display: inline-block; width: 1em; height: 1em; margin-right: 0.28em; border-radius: 22%; vertical-align: -0.12em; }
 .about-copy { max-width: 460px; align-self: end; color: var(--muted); font-size: 1.03rem; line-height: 1.85; }
 .about-copy p { margin: 0 0 16px; }
 .about-copy p:last-child { margin-bottom: 0; }
