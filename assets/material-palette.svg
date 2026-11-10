@@ -1,0 +1,460 @@
+
+    <svg width="1354" height="1752" viewBox="0 0 1354 1752" xmlns="http://www.w3.org/2000/svg" style="background-color: #1a1c1e;">
+      <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;family=monospace&amp;display=swap');
+        text { font-family: 'Inter, sans-serif'; }
+        .monospace { font-family: 'monospace'; }
+      </style>
+      
+    <g transform="translate(20, 20)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#97cbff" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#003354">
+        Primary
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#003354" text-anchor="end">
+        #97CBFF
+      </text>
+    </g>
+  
+    <g transform="translate(20, 148)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#003354" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#97cbff">
+        On Primary
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#97cbff" text-anchor="end">
+        #003354
+      </text>
+    </g>
+  
+    <g transform="translate(20, 276)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#004a77" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#cee5ff">
+        Primary Container
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#cee5ff" text-anchor="end">
+        #004A77
+      </text>
+    </g>
+  
+    <g transform="translate(20, 404)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#cee5ff" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#004a77">
+        On Primary Container
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#004a77" text-anchor="end">
+        #CEE5FF
+      </text>
+    </g>
+  
+    <g transform="translate(286, 20)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#4cdada" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#003737">
+        Secondary
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#003737" text-anchor="end">
+        #4CDADA
+      </text>
+    </g>
+  
+    <g transform="translate(286, 148)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#003737" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#4cdada">
+        On Secondary
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#4cdada" text-anchor="end">
+        #003737
+      </text>
+    </g>
+  
+    <g transform="translate(286, 276)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#004f50" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#6ff7f7">
+        Secondary Container
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#6ff7f7" text-anchor="end">
+        #004F50
+      </text>
+    </g>
+  
+    <g transform="translate(286, 404)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#6ff7f7" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#004f50">
+        On Secondary Container
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#004f50" text-anchor="end">
+        #6FF7F7
+      </text>
+    </g>
+  
+    <g transform="translate(552, 20)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#70dba8" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#003824">
+        Tertiary
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#003824" text-anchor="end">
+        #70DBA8
+      </text>
+    </g>
+  
+    <g transform="translate(552, 148)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#003824" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#70dba8">
+        On Tertiary
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#70dba8" text-anchor="end">
+        #003824
+      </text>
+    </g>
+  
+    <g transform="translate(552, 276)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#005236" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#8cf7c3">
+        Tertiary Container
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#8cf7c3" text-anchor="end">
+        #005236
+      </text>
+    </g>
+  
+    <g transform="translate(552, 404)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#8cf7c3" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#005236">
+        On Tertiary Container
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#005236" text-anchor="end">
+        #8CF7C3
+      </text>
+    </g>
+  
+    <g transform="translate(818, 20)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#ffb4ab" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#690005">
+        Error
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#690005" text-anchor="end">
+        #FFB4AB
+      </text>
+    </g>
+  
+    <g transform="translate(818, 148)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#690005" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#ffb4ab">
+        On Error
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#ffb4ab" text-anchor="end">
+        #690005
+      </text>
+    </g>
+  
+    <g transform="translate(818, 276)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#93000a" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#ffdad6">
+        Error Container
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#ffdad6" text-anchor="end">
+        #93000A
+      </text>
+    </g>
+  
+    <g transform="translate(818, 404)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#ffdad6" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#93000a">
+        On Error Container
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#93000a" text-anchor="end">
+        #FFDAD6
+      </text>
+    </g>
+  
+    <g transform="translate(20, 548)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#cee5ff" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#001d33">
+        Primary Fixed
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#001d33" text-anchor="end">
+        #CEE5FF
+      </text>
+    </g>
+  
+    <g transform="translate(20, 676)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#97cbff" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#e2e2e5">
+        Primary Fixed Dim
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#e2e2e5" text-anchor="end">
+        #97CBFF
+      </text>
+    </g>
+  
+    <g transform="translate(20, 804)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#001d33" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#cee5ff">
+        On Primary Fixed
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#cee5ff" text-anchor="end">
+        #001D33
+      </text>
+    </g>
+  
+    <g transform="translate(20, 932)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#004a77" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#e2e2e5">
+        On Primary Fixed Variant
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#e2e2e5" text-anchor="end">
+        #004A77
+      </text>
+    </g>
+  
+    <g transform="translate(286, 548)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#6ff7f7" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#002020">
+        Secondary Fixed
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#002020" text-anchor="end">
+        #6FF7F7
+      </text>
+    </g>
+  
+    <g transform="translate(286, 676)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#4cdada" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#e2e2e5">
+        Secondary Fixed Dim
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#e2e2e5" text-anchor="end">
+        #4CDADA
+      </text>
+    </g>
+  
+    <g transform="translate(286, 804)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#002020" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#6ff7f7">
+        On Secondary Fixed
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#6ff7f7" text-anchor="end">
+        #002020
+      </text>
+    </g>
+  
+    <g transform="translate(286, 932)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#004f50" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#e2e2e5">
+        On Secondary Fixed Variant
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#e2e2e5" text-anchor="end">
+        #004F50
+      </text>
+    </g>
+  
+    <g transform="translate(552, 548)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#8cf7c3" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#002113">
+        Tertiary Fixed
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#002113" text-anchor="end">
+        #8CF7C3
+      </text>
+    </g>
+  
+    <g transform="translate(552, 676)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#70dba8" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#e2e2e5">
+        Tertiary Fixed Dim
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#e2e2e5" text-anchor="end">
+        #70DBA8
+      </text>
+    </g>
+  
+    <g transform="translate(552, 804)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#002113" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#8cf7c3">
+        On Tertiary Fixed
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#8cf7c3" text-anchor="end">
+        #002113
+      </text>
+    </g>
+  
+    <g transform="translate(552, 932)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#005236" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#e2e2e5">
+        On Tertiary Fixed Variant
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#e2e2e5" text-anchor="end">
+        #005236
+      </text>
+    </g>
+  
+    <g transform="translate(20, 1076)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#121416" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#e2e2e5">
+        Surface Dim
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#e2e2e5" text-anchor="end">
+        #121416
+      </text>
+    </g>
+  
+    <g transform="translate(286, 1076)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#1a1c1e" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#e2e2e5">
+        Surface
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#e2e2e5" text-anchor="end">
+        #1A1C1E
+      </text>
+    </g>
+  
+    <g transform="translate(552, 1076)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#38393c" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#e2e2e5">
+        Surface Bright
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#e2e2e5" text-anchor="end">
+        #38393C
+      </text>
+    </g>
+  
+    <g transform="translate(20, 1204)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#0c0e11" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#e2e2e5">
+        Surface Container Lowest
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#e2e2e5" text-anchor="end">
+        #0C0E11
+      </text>
+    </g>
+  
+    <g transform="translate(286, 1204)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#1a1c1e" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#e2e2e5">
+        Surface Container Low
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#e2e2e5" text-anchor="end">
+        #1A1C1E
+      </text>
+    </g>
+  
+    <g transform="translate(552, 1204)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#1e2022" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#e2e2e5">
+        Surface Container
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#e2e2e5" text-anchor="end">
+        #1E2022
+      </text>
+    </g>
+  
+    <g transform="translate(818, 1204)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#282a2d" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#e2e2e5">
+        Surface Container High
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#e2e2e5" text-anchor="end">
+        #282A2D
+      </text>
+    </g>
+  
+    <g transform="translate(1084, 1204)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#333538" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#e2e2e5">
+        Surface Container Highest
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#e2e2e5" text-anchor="end">
+        #333538
+      </text>
+    </g>
+  
+    <g transform="translate(20, 1332)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#e2e2e5" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#1a1c1e">
+        On Surface
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#1a1c1e" text-anchor="end">
+        #E2E2E5
+      </text>
+    </g>
+  
+    <g transform="translate(286, 1332)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#c2c7cf" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#42474e">
+        On Surface Variant
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#42474e" text-anchor="end">
+        #C2C7CF
+      </text>
+    </g>
+  
+    <g transform="translate(552, 1332)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#8c9199" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#e2e2e5">
+        Outline
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#e2e2e5" text-anchor="end">
+        #8C9199
+      </text>
+    </g>
+  
+    <g transform="translate(818, 1332)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#42474e" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#e2e2e5">
+        Outline Variant
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#e2e2e5" text-anchor="end">
+        #42474E
+      </text>
+    </g>
+  <text x="20" y="1466" font-family="Inter, sans-serif" font-size="20" font-weight="600" fill="#e2e2e5">Inverse</text>
+    <g transform="translate(20, 1476)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#e2e2e5" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#e2e2e5">
+        Inverse Surface
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#e2e2e5" text-anchor="end">
+        #E2E2E5
+      </text>
+    </g>
+  
+    <g transform="translate(286, 1476)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#2f3033" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#e2e2e5">
+        Inverse On Surface
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#e2e2e5" text-anchor="end">
+        #2F3033
+      </text>
+    </g>
+  
+    <g transform="translate(552, 1476)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#00639c" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#e2e2e5">
+        Inverse Primary
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#e2e2e5" text-anchor="end">
+        #00639C
+      </text>
+    </g>
+  <text x="20" y="1594" font-family="Inter, sans-serif" font-size="20" font-weight="600" fill="#e2e2e5">Other</text>
+    <g transform="translate(20, 1604)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#000000" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#e2e2e5">
+        Scrim
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#e2e2e5" text-anchor="end">
+        #000000
+      </text>
+    </g>
+  
+    <g transform="translate(286, 1604)">
+      <rect width="250" height="112" rx="16" ry="16" fill="#000000" />
+      <text x="12" y="28" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#e2e2e5">
+        Shadow
+      </text>
+      <text x="238" y="96" font-family="monospace" font-size="16" fill="#e2e2e5" text-anchor="end">
+        #000000
+      </text>
+    </g>
+  
+    </svg>
+  
