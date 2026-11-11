@@ -16,7 +16,7 @@
   --radius-card: 30px;
   --radius-large: 24px;
   --radius-medium: 18px;
-  font-family: "DM Sans", sans-serif;
+  font-family: "Rubik", sans-serif;
   background: var(--bg);
   color: var(--text);
   scroll-behavior: smooth;
@@ -40,7 +40,7 @@ a:focus-visible { outline: 3px solid var(--primary); outline-offset: 4px; }
 .status-dot { width: 9px; height: 9px; display: inline-block; border-radius: 50%; background: var(--subtle); box-shadow: 0 0 0 4px rgba(140,145,153,.13); }
 .status-dot.online { background: #70dba8; box-shadow: 0 0 0 4px rgba(112,219,168,.14); }
 .status-dot.idle { background: #ffb4ab; }
-.hero h1, h2, h3 { font-family: "Manrope", sans-serif; letter-spacing: -.045em; }
+.hero h1, h2, h3 { font-family: "Oxanium", sans-serif; letter-spacing: 0; font-weight: 800; }
 .hero h1 { margin: 0; font-size: clamp(3.6rem, 8vw, 6.3rem); line-height: 1.02; font-weight: 800; }
 .hero-intro { margin: 26px 0 32px; color: var(--muted); font-size: clamp(1.05rem, 2vw, 1.25rem); line-height: 1.7; }
 .hero-intro strong { color: var(--text); font-weight: 600; }
@@ -167,7 +167,7 @@ a:focus-visible { outline: 3px solid var(--primary); outline-offset: 4px; }
   height: 17px;
 }
 
-#hero-title, #about-title {
-  font-family: 'Climate Crisis', sans-serif;
-  letter-spacing: 0;
+
+#about-title {
+  -webkit-text-stroke: 2px currentColor;
 }
