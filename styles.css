@@ -167,3 +167,7 @@ a:focus-visible { outline: 3px solid var(--primary); outline-offset: 4px; }
   height: 17px;
 }
 
+#hero-title, #about-title {
+  font-family: 'Climate Crisis', sans-serif;
+  letter-spacing: 0;
+}
