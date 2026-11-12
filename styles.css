@@ -45,12 +45,12 @@ a:focus-visible { outline: 3px solid var(--primary); outline-offset: 4px; }
 .hero-intro { margin: 26px 0 32px; color: var(--muted); font-size: clamp(1.05rem, 2vw, 1.25rem); line-height: 1.7; }
 .hero-intro strong { color: var(--text); font-weight: 600; }
 .hero-actions { display: flex; flex-wrap: wrap; gap: 12px; }
-.button { min-height: 52px; padding: 0 22px; display: inline-flex; align-items: center; justify-content: center; gap: 12px; border-radius: 17px; font-weight: 700; font-size: .92rem; transition: transform .18s cubic-bezier(.2,.8,.2,1), background .2s ease; }
+.button { min-height: 52px; padding: 0 22px; display: inline-flex; align-items: center; justify-content: center; gap: 12px; border-radius: 17px; font-weight: 700; font-size: .92rem; transition: transform .18s cubic-bezier(.2,.8,.2,1), background .2s ease, border-radius .2s ease; }
 .button-filled { background: var(--primary); color: var(--on-primary); }
 .button-filled:hover { background: #b2d9ff; }
 .button-tonal { background: var(--surface-high); color: var(--text); }
 .button-tonal:hover { background: #34373b; }
-.pressable { transform: translateY(0) scale(1); transition: transform .16s cubic-bezier(.2,.8,.2,1), background-color .2s ease; }
+.pressable { transform: translateY(0) scale(1); transition: transform .16s cubic-bezier(.2,.8,.2,1), background-color .2s ease, border-radius .2s ease; }
 .pressable:active, .pressable.is-pressed { transform: translateY(2px) scale(.97); }
 .profile-frame { width: min(100%, 340px); aspect-ratio: 1; justify-self: center; position: relative; display: grid; place-items: center; }
 .profile-orbit { position: absolute; inset: 5%; border: 1px solid var(--outline); border-radius: 42% 58% 56% 44% / 48% 42% 58% 52%; transform: rotate(-12deg); }
@@ -170,4 +170,16 @@ a:focus-visible { outline: 3px solid var(--primary); outline-offset: 4px; }
 
 #about-title {
   -webkit-text-stroke: 1.5px currentColor;
+}
+.credits-section .social-link {
+  width: fit-content;
+  gap: 18px;
+}
+
+.button:hover {
+  border-radius: 26px;
+}
+
+.social-link:hover {
+  border-radius: 28px;
 }
