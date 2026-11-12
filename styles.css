@@ -179,6 +179,11 @@ a:focus-visible { outline: 3px solid var(--primary); outline-offset: 4px; }
   padding-block: 20px 100px;
 }
 
+.credits-section .social-link {
+  width: fit-content;
+  gap: 18px;
+}
+
 .button:hover {
   scale: 1.05;
   border-radius: 30px;
