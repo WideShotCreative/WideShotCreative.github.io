@@ -133,6 +133,10 @@ a:focus-visible { outline: 3px solid var(--primary); outline-offset: 4px; }
 .i-instagram { -webkit-mask-image: url("https://cdn.simpleicons.org/instagram"); mask-image: url("https://cdn.simpleicons.org/instagram"); }
 .i-protonmail { -webkit-mask-image: url("https://cdn.simpleicons.org/protonmail"); mask-image: url("https://cdn.simpleicons.org/protonmail"); }
 .i-godotengine { -webkit-mask-image: url("https://cdn.simpleicons.org/godotengine"); mask-image: url("https://cdn.simpleicons.org/godotengine"); }
+.i-youtube {
+  -webkit-mask-image: url("https://cdn.simpleicons.org/youtube");
+  mask-image: url("https://cdn.simpleicons.org/youtube");
+}
 
 .social-link-main {
   display: inline-flex;
@@ -171,15 +175,16 @@ a:focus-visible { outline: 3px solid var(--primary); outline-offset: 4px; }
 #about-title {
   -webkit-text-stroke: 1.5px currentColor;
 }
-.credits-section .social-link {
-  width: fit-content;
-  gap: 18px;
+.credits-section {
+  padding-block: 20px 100px;
 }
 
 .button:hover {
-  border-radius: 26px;
+  scale: 1.05;
+  border-radius: 30px;
 }
 
 .social-link:hover {
-  border-radius: 28px;
+  scale: 1.05;
+  border-radius: 30px;
 }
